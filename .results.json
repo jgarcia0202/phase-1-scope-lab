@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2021-12-31T09:22:56.620Z",
-    "end": "2021-12-31T09:22:57.765Z",
-    "duration": 1145
+    "start": "2022-05-13T20:35:54.525Z",
+    "end": "2022-05-13T20:35:55.488Z",
+    "duration": 963
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,14 +66,14 @@
     {
       "title": "setBestCustomer",
       "fullTitle": "Fix the Scope setBestCustomer() setBestCustomer",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "overwrites the best customer",
       "fullTitle": "Fix the Scope overwriteBestCustomer() overwrites the best customer",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
